@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- I'm learning new things everyday 🌱.
 <!--
 **P-G19/P-G19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
